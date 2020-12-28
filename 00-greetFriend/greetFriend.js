@@ -1,4 +1,5 @@
 function greetFriend(name) {
+	console.log("Test")
   // Insert code here;
 }
 
